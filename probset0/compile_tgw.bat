@@ -1,0 +1,17 @@
+javac ArrowTurtle.java
+javac BallTurtle.java
+javac BoxTurtle.java
+javac CrossTurtle.java
+javac TGCanvas.java
+javac TGFillOp.java
+javac TGGraphicsOp.java
+javac TGKeyHandler.java
+javac TGLabelOp.java
+javac TGLineOp.java
+javac TGMouseHandler.java
+javac TGPoint.java
+javac TriangleTurtle.java
+javac Turtle.java
+javac TurtleGraphicsWindow.java
+javac TurtlePixels.java
+javac TurtleTurtle.java
